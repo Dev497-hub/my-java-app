@@ -5,7 +5,7 @@
              http://java.sun.com/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
 
-    <!-- Define a servlet -->
+    <!-- Define the servlet -->
     <servlet>
         <servlet-name>appServlet</servlet-name>
         <servlet-class>com.example.App</servlet-class>
@@ -18,3 +18,4 @@
     </servlet-mapping>
 
 </web-app>
+
