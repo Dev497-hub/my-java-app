@@ -51,7 +51,7 @@
                     <!-- Optional: Add web resources -->
                     <webResources>
                         <resource>
-                            <directory>src/main/webapp</directory>
+                            <directory>src/main/java</directory>
                         </resource>
                     </webResources>
                     <!-- Optional: Configure final name of the WAR file -->
